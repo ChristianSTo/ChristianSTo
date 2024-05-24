@@ -1,4 +1,4 @@
-## Hi there 👋
+## Christian To
 - I’m currently working on TripleTen's Software Engineering bootcamp.
 - I’m currently learning JavaScript.
 - I’m looking to collaborate on Web Design and Development.
