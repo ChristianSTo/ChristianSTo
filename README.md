@@ -1,4 +1,6 @@
 ## Christian To
+# Skills: HTML/CSS, Git, GitHub, VSCode, Figma, and JavaScript
+# About me:
 - I’m currently working on TripleTen's Software Engineering bootcamp.
 - I’m currently learning JavaScript.
 - I’m looking to collaborate on Web Design and Development.
