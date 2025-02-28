@@ -9,10 +9,10 @@
 [- Project Helping Hands: Audience Award Team Winner
 ](https://github.com/ChristianSTo/CTo-November-Code-Jam-2024)
 
-[- Lord of the Gourds: Social Meida Award Team Winner
+[- Lord of the Gourds: Social Media Award Team Winner
 ](https://github.com/ChristianSTo/CTo-September-Code-Jam-2024/blob/main/README.md)
 
-[- ParksSparks: Judge's Technical Award team Winner
+[- ParksSparks: Judge's Technical Award Team Winner
 ](https://github.com/RPinkha/June-Code-Jam-2024)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
