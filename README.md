@@ -1,10 +1,19 @@
 <h1 align="center">Hi, I'm Christian To</h1>
 <h3 align="center">A visionary full-stack developer from the United States</h3>
 
+## About me:
 - 📫 How to reach me **christian.to@outlook.com**
-
 - ⚡ Fun fact **I like digital art and badmintion**
 
+## Key contributions:
+[- Project Helping Hands: Audience Award Team Winner
+](https://github.com/ChristianSTo/CTo-November-Code-Jam-2024)
+
+[- Lord of the Gourds: Social Meida Award Team Winner
+](https://github.com/ChristianSTo/CTo-September-Code-Jam-2024/blob/main/README.md)
+
+[- ParksSparks: Judge's Technical Award team Winner
+](https://github.com/RPinkha/June-Code-Jam-2024)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/christian to" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christian to" height="30" width="40" /></a>
