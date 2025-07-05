@@ -6,6 +6,9 @@
 - ⚡ Fun fact **I like digital art and badmintion**
 
 ## Key contributions:
+
+[- CommuniTee Golf Chrome Extension](https://github.com/tripleten-externships/communitee-golf-1)
+
 [- Project Helping Hands: Audience Award Team Winner
 ](https://github.com/ChristianSTo/CTo-November-Code-Jam-2024)
 
