@@ -3,7 +3,7 @@
 
 ## About me:
 - 📫 How to reach me **christian.to@outlook.com**
-- ⚡ Fun fact **I like digital art and badmintion**
+- ⚡ Fun fact **I like digital art and badminton**
 
 ## Key contributions:
 
